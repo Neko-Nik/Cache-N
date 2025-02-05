@@ -2,5 +2,12 @@
 name = "cache-n"
 version = "0.1.0-alpha.1"
 edition = "2021"
+description = "A caching library for Rust functions using Redis."
+authors = ["Neko Nik <nikhil@nekonik.com>"]
+license = "MIT"
+repository = "https://github.com/Neko-Nik/Cache-N"
+homepage = "https://github.com/Neko-Nik/Cache-N"
+documentation = "https://github.com/Neko-Nik/Cache-N"
+keywords = ["caching", "redis", "rust", "cache-n", "cache"]
 
 [dependencies]
